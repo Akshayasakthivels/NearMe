@@ -36,7 +36,6 @@ map.html
 <font size="6" color="red"><b>Krishnagiri</b></font>
 <br>
 <h3 text="black">Akshaya Sakthivel (23008756)</h3>
-<img src="map.png" usemap="#MAP" width="1500" height="600" border="2">
 <map name="MAP">
 <area shape="rect" coords="520,100,670,150" href="Fort.html" title="Krishnagiri Fort">
 <area shape="rect" coords="520,430,670,480" href="temple.html" title="Sri kattu Veera Anjaneya Temple">
@@ -61,7 +60,7 @@ Krishnagiri.html
 </center>
 <hr color="red"
 <p>
-    Krishnagiri district is one of the 38 districts (a district in the north western part) of the state of Tamil Nadu, in India. This district is carved out from Dharmapuri District by 2004. The municipal town of Krishnagiri is the district headquarters. In Tamil Nadu, e-Governance was first introduced at Krishnagiri district under the National e-Governance Project (NEGP) in revenue and social welfare departments on a pilot basis.[2][3] The district is one of the largest producers of mangoes in India.[4] As of 2011, the district had a population of 1,879,809 with a sex-ratio of 958 females for every 1,000 males. Hosur is the most populous town in the district.
+    Krishnagiri district is one of the 38 districts (a district in the north western part) of the state of Tamil Nadu, in India. This district is carved out from Dharmapuri District by 2004. The municipal town of Krishnagiri is the district headquarters. In Tamil Nadu, e-Governance was first introduced at Krishnagiri district under the National e-Governance Project (NEGP) in revenue and social welfare departments on a pilot basis. The district is one of the largest producers of mangoes in India. As of 2011, the district had a population of 1,879,809 with a sex-ratio of 958 females for every 1,000 males. Hosur is the most populous town in the district.
 </p>
 </body>
 </html>
