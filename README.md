@@ -24,7 +24,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-
+```
 map.html
 
 <html>
@@ -114,7 +114,7 @@ Kamraj Nagar.html
 </p>
 </body>
 </html>
-
+```
 temple.html
 
 <html>
