@@ -114,7 +114,7 @@ Kamraj Nagar.html
 </p>
 </body>
 </html>
-```
+
 temple.html
 
 <html>
@@ -152,7 +152,7 @@ Fort.html
 </p>
 </body>
 </html>
-
+```
 
 
 ## OUTPUT
